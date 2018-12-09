@@ -124,6 +124,7 @@ a:link,a:visited{
   text-align: justify;
   background:rgb(249, 232, 210,0.9);
   font-family: 'Andale Mono', monospace;
+  overflow:hidden;
 }
 
 h3{
