@@ -7,6 +7,7 @@ header{
   width: 100%;
   height: 70px;
   background-color:#FFF0F5;
+  position: fixed;
 }
 
 ul {
@@ -101,7 +102,6 @@ a:link,a:visited{
   padding: 0;
   background-image: url("bg2.jpg");
   background-size: cover;
-
 }
 
 #me h2{
@@ -122,9 +122,8 @@ a:link,a:visited{
   margin: auto;
   padding: 10px 10px;
   text-align: justify;
-  background:rgb(249, 232, 210);opacity:0.8;
+  background:rgb(249, 232, 210,0.8);
   font-family: 'Andale Mono', monospace;
-  position: relative;
 }
 
 h3{
@@ -151,8 +150,7 @@ h3{
 .container2{
   width: 70%;
   margin: auto;
-  background-color:white;
-  opacity:0.9;
+  background: rgba(255, 255, 255, 0.5);
   padding: 6px 6px;
   top: 65px;
   overflow: hidden;
@@ -174,7 +172,6 @@ h3{
   margin: auto;
   border: 2px solid white;
   padding-bottom: 20px;
-
 }
 
 .contact{
