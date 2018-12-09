@@ -42,8 +42,16 @@ table{
   font-size: 18px;
   padding: 3px;
 }
+th{
+  font-weight: 2px;
+  text-align:left;
+  font-family: 'Trebuchet MS',sans-serif;
+  font-size: 15px;
+
+}
 td{
-  padding: 5px;
+  padding: 8px;
+  font-family: "DejaVu Sans Mono",monospace;
 }
 li{
   margin: auto;
