@@ -1,0 +1,53 @@
+body{
+  margin: 10px;
+  padding: 10px;
+}
+
+.header1{
+  padding-top:35px;
+  padding-left: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 16px;
+  position: relative;
+}
+
+.mypic{
+  float: left;
+  padding-top:40px;
+  padding-left: 40px;
+  margin-right: 15px;
+  max-width: 14%;
+  height:auto;
+}
+
+q{
+  font-family: 'Monotype Corsiva','cursive';
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.info{
+  display: block;
+  padding-left: 40px;
+  padding-top: 50px;
+}
+
+.info h3{
+  text-align: center;
+  border: 2px solid black;
+  background: pink;
+}
+table{
+  font-size: 18px;
+  padding: 3px;
+}
+td{
+  padding: 5px;
+}
+li{
+  margin: auto;
+  padding-bottom: 4px;
+  list-style: circle;
+  font-size: 18px;
+}
