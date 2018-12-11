@@ -41,6 +41,7 @@ q{
 table{
   font-size: 18px;
   padding: 3px;
+  padding-left: 30px;
 }
 th{
   font-weight: 2px;
@@ -49,8 +50,9 @@ th{
   font-size: 15px;
 
 }
-td{
-  padding: 8px;
+.edu td,.info td{
+  padding: 10px;
+  padding-left: 10px;
   font-family: "DejaVu Sans Mono",monospace;
 }
 li{
@@ -58,4 +60,11 @@ li{
   padding-bottom: 4px;
   list-style: circle;
   font-size: 18px;
+}
+
+.participation td{
+  width: 20%;
+}
+.achieve td{
+  padding-left: 285px;
 }
